@@ -26,5 +26,5 @@
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Probelm solved a mock ticket where a user was given incorrect access
+* Audited my steps from start to finish to daignose and solve the problem
