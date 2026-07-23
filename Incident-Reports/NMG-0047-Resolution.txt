@@ -14,6 +14,6 @@ Fix applied: To fix this issue I simply moved Jane Cooper into the correct OU fo
 
 Verification: I confirmed the issue was resolved by reviewing the OU and the Security Group Members List and taking screenshots.
 
-Date resolved:
+Date resolved: 07/10/26
 
 Resolved by: Diego Morales
