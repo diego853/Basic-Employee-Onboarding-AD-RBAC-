@@ -9,7 +9,7 @@ I built a centralized Active Directory domain (NMG.com) with a structured organi
 I demonstrated this by resolving Ticket NMG-0047: Jane Cooper, an HR Payroll Specialist, was placed in the Operations OU and assigned to the operations-users group. This prevented her from accessing HR shared resources and applying the correct desktop policies. I diagnosed the issue by reviewing her OU and security group membership, then moved her to the HR OU and reassigned her to the hr-users group. I verified the fix by reviewing the updated OU structure and security group members list with screenshots. Diagnosing this problem became the blueprint for preventing future access misplacements users in the correct OU automatically inherit the correct permissions.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+
 
 ## Tools Used
 * Windows Server
