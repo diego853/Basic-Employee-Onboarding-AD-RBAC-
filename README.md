@@ -27,4 +27,4 @@
 ## Key Accomplishments
 * Built NMG.com domain from scratch
 * Probelm solved a mock ticket where a user was given incorrect access
-* Audited my steps from start to finish to daignose and solve the problem
+* Simulated a HIPAA-regulated environment by implementing role-based access control and the principle of least privilege.
